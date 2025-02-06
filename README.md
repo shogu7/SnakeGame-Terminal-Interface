@@ -1,5 +1,7 @@
 Here is my SnakeGame with java using terminal as an interface. To win the game you need to collect 15 Apples, dont walk on yourself or you're gonna die.
+
 This is my second project in java, here are the step i followed for creating this project :
+
 I would like to thanks @kuroshire for their invaluable assistance with the project, particularly for their clear explanation of the code and guidance on structuring the code effectively.
 
 # Explanation for creating Snake
